@@ -59,8 +59,8 @@ products = [
         (datetime.date(2022, 2, 2), ["duck", "turkey"]),
         (datetime.date(2022, 2, 6), ["chicken", "duck", "turkey", "beef"]),
         (
-                datetime.date(2022, 2, 11),
-                ["salmon", "chicken", "duck", "turkey", "beef"],
+            datetime.date(2022, 2, 11),
+            ["salmon", "chicken", "duck", "turkey", "beef"],
         ),
         (datetime.date(2021, 2, 2), []),
     ],
